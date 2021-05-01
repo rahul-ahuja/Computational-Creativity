@@ -7,7 +7,7 @@ I've used me.jpg as a original content image and fire.jpg as a style image.
 
 The CNN_StyleTransfer.ipynb needs to be ran on Google Colab in order to use Colab form tools. Flask has also been used to create a web UI to upload the content and style image. Warning: The CNN_StyleTransfer.ipynb notebook will ask for the access to your Google drive and then will create the directories in which to upload the content and style images. 
 
-I used Kaggle Kernel to build the image captioning model. Although this makes the workflow not seamless as it involves switching from google colab to kaggle kernel, kaggle offers a range of data repositories which can be very large for local storage. For example, Flickr8k is more than 1GB while glove 6b can be more than 800MB which I was able to get on Kaggle without any internet bandwidth. Therefore I'd recommend to use Kaggle Kernel to run the image captioning notebook. 
+I used Kaggle Kernel to build the image captioning model. Although this makes the workflow not seamless as it involves switching from google colab to kaggle kernel, kaggle offers a range of data repositories which can be very large for local storage. For example, Flickr8k is more than 1GB while glove 6b can be more than 800MB which I was able to get on Kaggle without any internet bandwidth. Therefore I'd recommend to use Kaggle Kernel to run the image captioning notebook. In order to use Kaggle Kernal, you need to setup Kaggle account at https://www.kaggle.com/ and here are the instructions to setup kaggle kernal https://www.kaggle.com/getting-started/44939
 
 If you decide to run everything locally;
 
