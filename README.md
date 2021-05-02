@@ -22,3 +22,5 @@ GPU is required for the accelerated experimentations which is already provided i
 All the libraries imported on to the CNN_StyleTransfer.ipynb notebook can be ran on Google Colab and image captioning model's notebook on Kaggle Kernel. Flask library has been installed to run on Google Colab. Installation command is stated on to the CNN_StyleTransfer.ipynb notebook. 
 
 If you decide to run the notebooks locally, I suggest to use pip package manager.
+
+Reference: The notebook of CNN style network has been adapted from the Computation Creativity Week 4 Labs at Queen Mary University and the notebook of image captioning has been adapted from Kaggle Kernel  https://www.kaggle.com/rishabhchaurasia7/image-captioning-on-flickr8k-dataset
